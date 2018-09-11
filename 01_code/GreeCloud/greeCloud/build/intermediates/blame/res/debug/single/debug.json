@@ -1,0 +1,2094 @@
+[
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_add_contact_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_add_contact_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_sw_back_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_sw_back_color.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load06.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load06.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_spinner_76_outer_holo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_spinner_76_outer_holo.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_eye_normal.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\ic_eye_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_btn_collection_highlight.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_btn_collection_highlight.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_time_picker_dialog2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_time_picker_dialog2.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_list_skip_normal.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\ic_list_skip_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_bottom_round_corners.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_bottom_round_corners.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_center_pressed.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_center_pressed.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_guide_round_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\guide_round_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_numberpicker_up_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\numberpicker_up_btn.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_seekbar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_seekbar.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_material_dialog_window.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_material_dialog_window.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_title_right_search_.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_title_right_search_.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_moveto_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_moveto_press.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_floating_button_scale_hide.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_floating_button_scale_hide.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load13.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load13.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_round_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_round_shape.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_progress_small_holo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_progress_small_holo.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_arrow_indicator_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_arrow_indicator_bg.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_green_phone_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_green_phone_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load20.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load20.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_date_picker_done_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_date_picker_done_button.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_top_pressed.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_top_pressed.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_sim1.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_sim1.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_btn_collection_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_btn_collection_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_btn_add_small_highlight.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_btn_add_small_highlight.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_load_anim.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_load_anim.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_delete_disable.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_delete_disable.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_done_text_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_done_text_color.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_sim2_1_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_sim2_1_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_down_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_down_normal.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_btn_black_textcolor_selector.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\btn_black_textcolor_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_checkswitch_btn_unpressed.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_checkswitch_btn_unpressed.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_btn_gray_rect_bg.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\btn_gray_rect_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load08.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load08.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_date_picker_selected_date.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_switch_btn_open_disable.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_switch_btn_open_disable.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_spinner_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_spinner_bg.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_switch_btn_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_switch_btn_close.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_input_disabled.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_input_disabled.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_btn_check_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\btn_check_selected.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load22.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load22.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_corners_left.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_corners_left.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_searchbar_delete.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_searchbar_delete.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_right_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_right_search.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_done_background_color_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_done_background_color_dark.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_switch_thumb.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_switch_thumb.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_item_child_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_item_child_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_material_card.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_material_card.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fab_mini.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fab_mini.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_seekbar_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_seekbar_normal.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_number_picker_with_selector_wheel.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load15.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load15.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_loading_small_holo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_loading_small_holo.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_null_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_null_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_dialog_bottom_corners.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_dialog_bottom_corners.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_alone_default.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_alone_default.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_progress_indeterminate.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_progress_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_mail_statusbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_mail_statusbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_windowcontentoverlay_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_windowcontentoverlay_background.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sync_cloud_icon.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\sync_cloud_icon.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_gridview_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_gridview_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_progressbar_chrysanthemum.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_progressbar_chrysanthemum.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sync_merge_icon.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\sync_merge_icon.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fab_circle_normal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fab_circle_normal.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_guide_round_current.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\guide_round_current.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_time_interval_picker_dialog_ui.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\time_interval_picker_dialog_ui.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_switch_preference.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_switch_preference.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_popup_window_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_popup_window_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gree_back_drawable.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gree_back_drawable.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_down_disabled.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_down_disabled.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_head_number_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_head_number_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\xml_contact_syncadapter.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\xml\\contact_syncadapter.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_addevent_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_addevent_press.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_btn_checkbox_off_disable_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_btn_checkbox_off_disable_light.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_bottom_pressed.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_bottom_pressed.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load17.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load17.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_hold.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_hold.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load04.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load04.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_searchbar_delete.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_searchbar_delete.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_dialer.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_dialer.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load49.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load49.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_popupview_menu_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_popupview_menu_background.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_toolbar_btn_merge.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_toolbar_btn_merge.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_btn_text_activiedstatecolor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_btn_text_activiedstatecolor.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_right_push_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_right_push_out.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_ic_eye_hide.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_ic_eye_hide.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_bottom_actionbar_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_bottom_actionbar_background.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_actionbar_search_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_actionbar_search_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_selector_single_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_selector_single_btn.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_tab_indicator_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_tab_indicator_bg.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_dialog_alert.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_dialog_alert.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load11.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load11.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load24.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load24.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_tab_item_text_color_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_tab_item_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue_rect_bg.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\btn_blue_rect_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_red_music_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_red_music_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_phone_actionbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_phone_actionbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_up_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_up_pressed.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_selector_left_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_selector_left_btn.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_pager1.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_pager1.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_popup_menu_divider_line_vertical.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_popup_menu_divider_line_vertical.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_radio_actionbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_radio_actionbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_alone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_alone.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_fragment_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_fragment_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load31.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load31.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_button_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_button_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_toast_corner.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_toast_corner.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_numberpicker_input.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\numberpicker_input.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue_bg.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\btn_blue_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_menu_btn.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_menu_btn.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_blk_menubtn_arr.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_blk_menubtn_arr.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_move_left_out_activity.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_move_left_out_activity.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_null_anim.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_null_anim.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_text_cursor_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_text_cursor_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_date_picker_legacy.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\date_picker_legacy.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_actionbar_add_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_actionbar_add_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_btn_checkbox_on_normal_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_btn_checkbox_on_normal_light.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_ic_input_below_line.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_ic_input_below_line.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_progress_medium_holo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_progress_medium_holo.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_toolbar_btn_moveto.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_toolbar_btn_moveto.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_move_left_in_activity.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_move_left_in_activity.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_dialog_backrgound_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_dialog_backrgound_shape.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_sponge_statusbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_sponge_statusbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_btn_radio_normal_disabled.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_btn_radio_normal_disabled.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_btn_radio_on_holo_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_btn_radio_on_holo_light.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_corner_round_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_corner_round_shape.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_date_picker_header_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_date_picker_header_view.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fab_normal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fab_normal.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_shape_corner_radiu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_shape_corner_radiu.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_slide_item_content.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_slide_item_content.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_popup_menu_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_popup_menu_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_top.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_record.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_record.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_year_label_text_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_year_label_text_view.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_bottom_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_search_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_search_bg.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_calendar_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_calendar_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_deskclock.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_deskclock.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_bottom_list_item_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_bottom_list_item_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_bottom_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_calc_time_view_title.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_calc_time_view_title.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load36.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load36.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_tapbar_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_tapbar_background.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_input_message_cursor.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_input_message_cursor.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_corners_middle.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_corners_middle.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_def_head.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\def_head.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_show_pwd.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_show_pwd.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_ic_list_up.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_ic_list_up.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_btn_radio_holo_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_btn_radio_holo_light.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_icon_back.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\icon_back.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_search_close_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_search_close_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_btn_radio_selecter.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_btn_radio_selecter.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_spinner_16_inner_holo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_spinner_16_inner_holo.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load46.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load46.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_btn_radio_normal_disabled.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_btn_radio_normal_disabled.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_dialog_test.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_dialog_test.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_popup_menu_list_item_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_popup_menu_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_fl_btn_msg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_fl_btn_msg.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load45.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load45.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_popup_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_popup_menu.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load35.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load35.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_slide_option_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_slide_option_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_ic_list_2_disabled.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\ic_list_2_disabled.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_dialog_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_dialog_background.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_background_tab.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_background_tab.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_ic_list_down.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_ic_list_down.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load18.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_list_section_divider_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_list_section_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_nav_search_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_nav_search_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_selector_right_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_selector_right_btn.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gree_commmon_time_picker_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gree_commmon_time_picker_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_floating_button_scale_show.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_floating_button_scale_show.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_date_picker_dialog_gui.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\date_picker_dialog_gui.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_gregorian_lunar_calendar_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_gregorian_lunar_calendar_view.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_hide_pwd.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_hide_pwd.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_done_background_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_done_background_color.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_green_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_green_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_btn_checkbox_off_normal_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_btn_checkbox_off_normal_light.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load50.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load50.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gui_common_btn_radio_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gui_common_btn_radio_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_checkbox_checked.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_title_menu_btn.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_title_menu_btn.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_switch_btn_open.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_switch_btn_open.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_sim1_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_sim1_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_checkswitch_bottom_unchecked.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_checkswitch_bottom_unchecked.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_time_header_label.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_time_header_label.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_sim1_1_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_sim1_1_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_button_ripple_right.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_button_ripple_right.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_move_right_in_activity.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_move_right_in_activity.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_below_shadow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_below_shadow.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\xml_authenticator.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_bg_single_btn_nor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_bg_single_btn_nor.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_calc_time_view_right_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_calc_time_view_right_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_round_shape_transparent.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_round_shape_transparent.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_search_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_search_bg.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_input_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_input_selected.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_mail.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_mail.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load48.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load48.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_blue_light_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_blue_light_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_input_password_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_input_password_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_title_right_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_title_right_search.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_line_bottom_devir_bg.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\line_bottom_devir_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_search_close_highlight.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_search_close_highlight.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_popup_divider_titleline.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_popup_divider_titleline.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_msg_statusbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_msg_statusbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_contact_base_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_contact_base_main.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_sponge_actionbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_sponge_actionbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load33.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load33.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_btn_radio_selecter_disabled.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_btn_radio_selecter_disabled.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_center_default.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_center_default.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_toolbar_btn_addevent.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_toolbar_btn_addevent.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_fragment_swtich.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\layout\\fragment_swtich.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_pager3.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_pager3.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load19.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load19.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_note_actionbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_note_actionbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_bg_right_btn_nor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_bg_right_btn_nor.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_tab_indicator.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_tab_indicator.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_toolbar_btn_delete.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_toolbar_btn_delete.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_progress_large_holo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_progress_large_holo.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load34.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load34.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sync_over_local_icon.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\sync_over_local_icon.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_btn_merge_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_btn_merge_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_bottom_list_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_bottom_list_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_seekbar_thumb.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_mail_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_mail_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_preference_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_preference_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_alert_dialog_bg_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_alert_dialog_bg_top.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_pager4.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_pager4.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_spinner_20_inner_holo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_spinner_20_inner_holo.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_toolbar_btn_select.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_toolbar_btn_select.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_spinner_20_outer_holo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_spinner_20_outer_holo.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_switch_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_switch_button.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_ic_list_2_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\ic_list_2_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_dialog_sync_contact.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\layout\\dialog_sync_contact.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_btn_add_small_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_btn_add_small_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_corner_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_corner_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_spinner_48_inner_holo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_popup_menu_list_item_selector_last.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_popup_menu_list_item_selector_last.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_moveto_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_moveto_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_search_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_search_bg.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_layout_alert_dialog_nuetral.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_layout_alert_dialog_nuetral.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_text_white_color_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_text_white_color_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_msg_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_msg_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_dialog_bottom_show.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_dialog_bottom_show.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load47.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load47.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_move_right_out_activity.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_move_right_out_activity.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_spinner_48_outer_holo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_spinner_76_inner_holo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_note_statusbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_note_statusbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_title_right_search_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_title_right_search_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_title_refresh_button_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_title_refresh_button_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_buttonbar_red.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_buttonbar_red.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_btn_radio_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_btn_radio_selected.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_corners_right.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_corners_right.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_btn_radio_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_btn_radio_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fab_shadow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fab_shadow.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load14.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load14.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load21.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load21.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_stick_list_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_stick_list_fragment.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_sim2_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_sim2_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_saw_tooth.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_saw_tooth.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_default_avatar.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_default_avatar.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_button_rectangle_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_button_rectangle_button.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_eye_selected.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\ic_eye_selected.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_down_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_down_selected.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_btn_checkbox_on_disable_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_btn_checkbox_on_disable_light.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gree_thumb_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gree_thumb_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_mail_actionbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_mail_actionbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_btn_radio.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_btn_radio.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_right_menu_btn.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_right_menu_btn.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_radio_tabs_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_radio_tabs_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_tab_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_tab_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load07.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load07.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_addevent_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_addevent_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\interpolator_accelerate_cubic.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\interpolator\\accelerate_cubic.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_msg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_msg.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_bg_left_btn_nor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_bg_left_btn_nor.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_aphabetical_list_prompt_background.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_aphabetical_list_prompt_background.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_toolbar_btn_add_contacts.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_toolbar_btn_add_contacts.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_button_ripple_left.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_button_ripple_left.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_progress.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_progress.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_bottom_menu_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_bottom_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_x_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_x_icon.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fab_circle_mini.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fab_circle_mini.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_sim2.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_sim2.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_sim1_1.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_sim1_1.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_checkbox.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_checkbox.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_sim2_1.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_sim2_1.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nav_back.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\ic_nav_back.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_spinner_16_outer_holo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_spinner_16_outer_holo.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_scene_time_view_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_scene_time_view_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load30.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load30.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_above_shadow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_above_shadow.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_right_search_.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_right_search_.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_selection_divider.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_slide_item_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_slide_item_action.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_time_picker_dialog_gui.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\time_picker_dialog_gui.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_gree_thumb_disable.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_gree_thumb_disable.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load05.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load05.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_note.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_note.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\xml_calendar_syncadapter.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\xml\\calendar_syncadapter.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_fl_btn_note.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_fl_btn_note.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sign_edit_mistake.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\sign_edit_mistake.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_bottom_push_in_keyboard.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_bottom_push_in_keyboard.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_loading_medium_holo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_loading_medium_holo.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_time_interval_picker_legacy_gui.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\time_interval_picker_legacy_gui.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_checkswitch_mask.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_checkswitch_mask.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_date_picker_view_animator.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_msg_actionbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_msg_actionbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load12.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load12.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_gui_common_btn_radio_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_gui_common_btn_radio_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_blk_menubtn_prs.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_blk_menubtn_prs.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load10.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load10.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_ic_ab_back_holo_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_ic_ab_back_holo_light.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_button_ripple_single.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_button_ripple_single.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_pager2.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_pager2.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_dialog_corners.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_dialog_corners.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_base_common_action_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_base_common_action_bar.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_pwd_dialog_layout.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\layout\\pwd_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load25.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load25.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_popup_menu_bottom_round_normal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_popup_menu_bottom_round_normal.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_blue_btn_bg_selector.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\blue_btn_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_card_nos_pressed.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_card_nos_pressed.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_up_disabled.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_up_disabled.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_fade.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_fade.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load32.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load32.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_done_text_color_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_done_text_color_dark.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load03.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load03.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_phone_tabs_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_phone_tabs_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_checkswitch_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_checkswitch_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_date_picker_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_date_picker_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_ab_back_holo_light_am.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_ab_back_holo_light_am.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_radio_statusbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_radio_statusbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_aphabetical_list_prompt_background.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_aphabetical_list_prompt_background.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_curve_photo_mask.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_curve_photo_mask.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ab_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_list_select_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_list_select_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_bottom.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_btn_radio_selecter_disabled.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_btn_radio_selecter_disabled.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_phone_statusbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_phone_statusbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_icon_tray_masker.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_icon_tray_masker.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_progressdialog.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\layout\\progressdialog.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_back_btn_bg_.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_back_btn_bg_.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_btn_check_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\btn_check_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sync_local_icon.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\sync_local_icon.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_popup_menu_bottom_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_popup_menu_bottom_round.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_down_disabled_focused.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_down_disabled_focused.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_btn_merge_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_btn_merge_pressed.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_fab_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_fab_light.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load23.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load23.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_green_health_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_green_health_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_popup_menu_list_item_selector_first.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_popup_menu_list_item_selector_first.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_list_divider_holo_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_list_divider_holo_light.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_checkbox_unchecked.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_checkbox_unchecked.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_sponge.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_sponge.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_magnifying_glass.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_magnifying_glass.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_alert_dialog_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_alert_dialog_bottom.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_activity_sync_other.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\layout\\activity_sync_other.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_activity_sync_main.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\layout\\activity_sync_main.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_ic_action_edit_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_ic_action_edit_dark.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_icon_tray_shadow.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_icon_tray_shadow.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_note_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_note_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_fl_btn_dialer.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_fl_btn_dialer.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_item_line_bg.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\ripple_item_line_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load16.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load16.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_delete_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_delete_press.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_blk_menubtn_shadow.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_blk_menubtn_shadow.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_up_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_up_selected.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_btn_add_small_select.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_btn_add_small_select.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_calc_time_view_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_calc_time_view_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_deskclock_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_deskclock_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load37.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load37.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_market.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_market.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_add_contact_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_add_contact_press.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_radio_on.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_radio_on.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_search_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_search_close.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_refresh_button.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_refresh_button.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_fadeanimation_exit.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_fadeanimation_exit.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load09.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load09.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_btn_radio_off_holo_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_btn_radio_off_holo_light.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_popup_menu_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_popup_menu_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_guide_round_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_guide_round_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_title_menu_btn_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_title_menu_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load44.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load44.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_view_passwd_edit.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\layout\\view_passwd_edit.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_toolbar_btn_collection.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_toolbar_btn_collection.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_title_menu_btn_.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_title_menu_btn_.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_lay_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_lay_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_btn_black_bg.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\btn_black_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_car_statusbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_car_statusbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_list_divider_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_fab_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_fab_dark.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_button_shape_canlender.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_button_shape_canlender.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_blk_menubtn_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_blk_menubtn_bg.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_item_parent_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_item_parent_layout.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_bg_left_btn_pre.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_bg_left_btn_pre.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_icon_tray_body.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_icon_tray_body.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_point_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_point_icon.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_ic_eye_show.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_ic_eye_show.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load29.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load29.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load43.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load43.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_right_menu_btn_.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_right_menu_btn_.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_recorder_statusbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_recorder_statusbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_loading_large_holo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_loading_large_holo.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_bottom_push_out_keyboard.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_bottom_push_out_keyboard.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_edit_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_edit_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sync_over_cloud_icon.png.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable-xxhdpi\\sync_over_cloud_icon.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_gree_thumb.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_gree_thumb.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_input_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_input_normal.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_alone_pressed.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_alone_pressed.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_up_disabled_focused.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_up_disabled_focused.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_gui_common_date_picker_year_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\gui_common_date_picker_year_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_spinner_bg_r.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_spinner_bg_r.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_blue_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_blue_mail_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_blue_mail_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load38.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load38.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_checkswitch_bottom_checked.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_checkswitch_bottom_checked.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load42.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load42.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_pager0.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_pager0.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_shape_rectangle.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_shape_rectangle.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_windowcontentoverlay_bg_hasshadow.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_windowcontentoverlay_bg_hasshadow.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_retangle_checkbox_style.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_retangle_checkbox_style.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_actionbar_overflow.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_actionbar_overflow.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_full_screen_title.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_full_screen_title.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_bottom_list_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_bottom_list_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_common_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_common_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_switch_btn_close_disable.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_switch_btn_close_disable.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_select_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_select_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_time_picker_legacy_gui.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\time_picker_legacy_gui.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_radio_off.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_radio_off.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_checkbox_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_checkbox_button.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_layout_toast_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_layout_toast_view.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load28.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load28.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_popup_menu_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_popup_menu_round.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_passwd_selector.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\checkbox_passwd_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_floating_button_dialer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_floating_button_dialer.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_scene_time_view_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_scene_time_view_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load02.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load02.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_number_picker.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_base_child_title_lay.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_base_child_title_lay.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_tab_indicator_grey.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_tab_indicator_grey.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_fl_btn_calendar.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_fl_btn_calendar.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_numberpicker_down_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\numberpicker_down_btn.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_up_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_up_normal.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\xml_wifi_syncadapter.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\xml\\wifi_syncadapter.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_title_right_menu_btn_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_title_right_menu_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_text_cursor_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_text_cursor_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_input_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_input_pressed.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_btn_radio_selecter.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_btn_radio_selecter.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load40.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load40.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\color_selecter_text_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\color\\selecter_text_color.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_blue_btn_textcolor_selector.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\blue_btn_textcolor_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_popup_menu_divider_line_horizontal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_popup_menu_divider_line_horizontal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_guide_round_current.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\guide_round_current.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_dialog_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_dialog_button.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_bg_line.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_bg_line.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_progressbar_horizontal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_progressbar_horizontal.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_bottom_default.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_bottom_default.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_head_bg.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\ripple_head_bg.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_text_cursor_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_text_cursor_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_tab_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_tab_background.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_calc_time_view_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_calc_time_view_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_top_default.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_top_default.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_fl_btn_calendar.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_fl_btn_calendar.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_seekbar_press.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_seekbar_press.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_record_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_record_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_checkbox_big_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_checkbox_big_selected.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_time_line_view_right_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_time_line_view_right_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_title_back_button_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_title_back_button_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load26.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load26.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_numberpicker_down_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\numberpicker_down_pressed.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_right_icon_preference.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_right_icon_preference.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load39.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load39.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load01.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load01.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_car_actionbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_car_actionbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_dialog_lunar_gregorian.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_dialog_lunar_gregorian.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_select_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_select_press.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_time_view_list_line.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_time_view_list_line.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_bg_single_btn_pre.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_bg_single_btn_pre.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_date_picker_legacy_holo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\date_picker_legacy_holo.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_gui_common_guide_round_current.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\gui_common_guide_round_current.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_ic_action_edit_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_ic_action_edit_light.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue_textcolor_selector.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\drawable\\btn_blue_textcolor_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_tab_container_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_tab_container_bg.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_refresh_button_.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_refresh_button_.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_market_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_market_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_fadeanimation_enter.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_fadeanimation_enter.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_layout_alert_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_layout_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_item_center.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_item_center.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load27.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load27.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\anim_gui_common_right_push_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\anim\\gui_common_right_push_in.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_back_btn_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_back_btn_bg.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_rounded_corners.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_rounded_corners.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_icons_ok.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_icons_ok.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_search_inner_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_search_inner_bg.9.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_card_nos.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_card_nos.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_add_contact_disable.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_add_contact_disable.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_contact_picture.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_contact_picture.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_button_round_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_button_round_button.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_yellow_message_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_yellow_message_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_toolbar_btn_delete_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_toolbar_btn_delete_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_bg_yellow_radio_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_bg_yellow_radio_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-560dpi-v4_load41.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-560dpi-v4\\load41.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\layout_gui_common_progress_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\layout\\gui_common_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_gui_common_ic_actionbar_calling.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-xhdpi-v4\\gui_common_ic_actionbar_calling.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_bg_right_btn_pre.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_bg_right_btn_pre.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_title_menu_btn_.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_title_menu_btn_.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gui_common_erase_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\gui_common_erase_icon.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\xml_sms_syncadapter.xml.flat",
+        "source": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\res\\xml\\sms_syncadapter.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_gradient_recorder_actionbar_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_gradient_recorder_actionbar_selector.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-420dpi-v4_gui_common_nav_search_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-420dpi-v4\\gui_common_nav_search_normal.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_fl_btn_sponge_ripple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_fl_btn_sponge_ripple.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_button_panel_divider.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_button_panel_divider.xml"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_guide_round_default.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable-hdpi-v4\\guide_round_default.png"
+    },
+    {
+        "merged": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\res\\merged\\debug\\drawable_gui_common_button_ripple_middle.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\drawable\\gui_common_button_ripple_middle.xml"
+    }
+]

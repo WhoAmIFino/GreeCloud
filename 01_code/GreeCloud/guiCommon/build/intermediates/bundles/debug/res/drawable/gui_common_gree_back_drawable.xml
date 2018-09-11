@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:state_checked="true">
+        <shape>
+            <solid android:color="#3300aeff"/>
+            
+            <padding
+                android:bottom="7dp"
+                android:left="7dp"
+                android:right="7dp"
+                android:top="7dp" />
+            <corners android:radius="99dp"/>
+        </shape>
+    </item>
+    <item android:state_enabled="false" android:state_checked="false">
+        <shape>
+            <solid android:color="#FFE7E7E7"/>
+
+	    <padding
+		android:bottom="7dp"
+		android:left="7dp"
+		android:right="7dp"
+		android:top="7dp" />
+	    <corners android:radius="99dp"/>
+        </shape>
+    </item>
+	<item android:state_checked="true">
+		<shape>
+		    <gradient
+		        android:angle="270"
+		        android:centerX="0.5"
+		        android:centerY="0.5"
+		        android:endColor="#3bb4ff"
+		        android:startColor="#009cff" />
+		
+			<padding
+			    android:bottom="7dp"
+			    android:left="7dp"
+			    android:right="7dp"
+			    android:top="7dp" />
+
+			<corners android:radius="99dp"/>
+		</shape>
+	</item>
+	<item>
+		<shape>
+		    <solid android:color="#E5E5E5"/>
+			
+		    <padding
+		        android:bottom="7dp"
+			android:left="7dp"
+			android:right="7dp"
+			android:top="7dp" />
+		    <corners android:radius="99dp"/>
+		</shape>
+	</item>
+</selector>

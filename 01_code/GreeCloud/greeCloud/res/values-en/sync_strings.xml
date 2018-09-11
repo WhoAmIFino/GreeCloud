@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Gree cloud</string>
+    <string name="app_sync_title">Gree cloud</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+
+    <!-- 格力云Gree cloud -->
+    <string name="def_user_name">Please login Gree account</string>
+    <string name="sync">Data synchronization</string>
+    <string name="contact">Contact</string>
+    <string name="sms">Message</string>
+    <string name="calendar">Calendar</string>
+    <string name="wifi">Wifi</string>
+    <string name="findphone">Find phone</string>
+    <string name="agree_find_this_phone">Agree to find this phone</string>
+    <string name="find_my_phone">Find my phone</string>
+    <string name="about_find_phone">About find phone</string>
+    <string name="find_phone_alert">After turning on the find my phone function, position information will be acquired acquiescently, continue? </string>
+
+    <string name="password_rule">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="input_pwd">Input password</string>
+    <string name="max_length">Max length</string>
+    <string name="input_account_pwd">Please input account and password</string>
+    <string name="pwd_error">Password format is incorrect</string>
+    <string name="pwd_not_right">Wrong passsword</string>
+    <string name="foget_pwd">Forget password</string>
+    <string name="sync_contact">Synchronization of contacts</string>
+    <string name="sync_merge_title">Local and cloud contacts shall be combined</string>
+    <string name="sync_over_cloud_title">Upload local data to the cloud</string>
+    <string name="sync_over_local_title">Download cloud data to the local</string>
+    <string name="sync_merge">Combine local data with cloud</string>
+    <string name="sync_over_cloud">Upload local data to the cloud</string>
+    <string name="sync_over_local">Download cloud data to the local</string>
+    <string name="sync_voer_local_des">Cloud data shall be synchronously with local data</string>
+    <string name="sync_local_label"><xliff>%1$d</xliff>Person\nLocal</string>
+    <string name="sync_cloud_label"><xliff>%1$d</xliff>Person\nCloud</string>
+    <string name="no_app">No corresponding APP</string>
+</resources>

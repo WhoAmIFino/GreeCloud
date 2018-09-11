@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/layout_full"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        style="@style/layout_wrap"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/head_margin_tb"
+        android:layout_marginTop="@dimen/head_margin_tb"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:gravity="center_horizontal"
+        android:onClick="headClick"
+        android:orientation="vertical" >
+
+        <com.guicommon.widget.drawable.RoundedImageView
+            android:id="@+id/sync_main_head"
+            android:layout_width="@dimen/head_wh"
+            android:layout_height="@dimen/head_wh"
+            android:layout_marginBottom="@dimen/head_drawable_padding"
+            android:src="@drawable/def_head" />
+
+        <TextView
+            android:id="@+id/sync_main_name"
+            style="@style/layout_wrap"
+            android:text="@string/def_user_name"
+            android:textColor="@color/text_color_blue"
+            android:textSize="@dimen/common_text_size_48" />
+    </LinearLayout>
+
+    <View style="@style/diviter_line_style" />
+
+    <TextView
+        style="@style/item_title_style"
+        android:text="@string/sync" />
+
+    <View style="@style/diviter_line_style" />
+
+    <RelativeLayout
+        style="@style/item_style"
+        android:onClick="contactClick" >
+
+        <TextView
+            style="@style/item_name_style"
+            android:text="@string/contact" />
+
+        <com.guicommon.widget.SwitchButton
+            android:id="@+id/sync_contact_check"
+            style="@style/item_check" />
+    </RelativeLayout>
+
+    <View style="@style/diviter_line_style" />
+
+    <RelativeLayout
+        style="@style/item_style"
+        android:onClick="smsClick" >
+
+        <TextView
+            style="@style/item_name_style"
+            android:text="@string/sms" />
+
+        <com.guicommon.widget.SwitchButton
+            android:id="@+id/sync_sms_check"
+            style="@style/item_check" />
+    </RelativeLayout>
+
+    <View style="@style/diviter_line_style" />
+
+    <RelativeLayout
+        style="@style/item_style"
+        android:onClick="calendarClick" >
+
+        <TextView
+            style="@style/item_name_style"
+            android:text="@string/calendar" />
+
+        <com.guicommon.widget.SwitchButton
+            android:id="@+id/sync_calendar_check"
+            style="@style/item_check" />
+    </RelativeLayout>
+
+    <View style="@style/diviter_line_style" />
+
+    <RelativeLayout
+        style="@style/item_style"
+        android:onClick="wifiClick" >
+
+        <TextView
+            style="@style/item_name_style"
+            android:text="@string/wifi" />
+
+        <com.guicommon.widget.SwitchButton
+            android:id="@+id/sync_wifi_check"
+            style="@style/item_check" />
+    </RelativeLayout>
+
+    <View style="@style/diviter_line_style" />
+
+</LinearLayout>

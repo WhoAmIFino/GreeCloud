@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="text_color_blue">#009eff</color>
+    <color name="text_color_black_52">#84000000</color>
+    <color name="bg_color_black_05">#0c000000</color>
+    <color name="diviter_line_bg">#19000000</color>
+    
+</resources>

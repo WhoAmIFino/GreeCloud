@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">格力云</string>
+    <string name="app_sync_title">格力云</string>
+    
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    
+    <!-- 格力云 -->
+    <string name="def_user_name">请登录格力账号</string>
+    <string name="sync">数据同步</string>
+    <string name="contact">联系人</string>
+    <string name="sms">短信</string>
+    <string name="calendar">日历事件</string>
+    <string name="wifi">wifi</string>
+    <string name="sync_contact">同步联系人</string>
+    <string name="sync_merge_title">本地和云端联系人将相互合并</string>
+    <string name="sync_over_cloud_title">本地覆盖云端</string>
+    <string name="sync_over_local_title">云端覆盖本地</string>
+    <string name="sync_merge">本地与云端合并</string>
+    <string name="sync_over_cloud">本地覆盖云端</string>
+    <string name="sync_over_local">云端覆盖本地</string>
+    <string name="sync_local_label"><xliff>%1$d</xliff>人/本地</string>
+    <string name="sync_cloud_label"><xliff>%1$d</xliff>人/云端</string>
+    <string name="wifiinfo">network={\t\n\tssid=\"<xliff>%1$s</xliff>\"\t\n\tpsk=\"<xliff>%2$s</xliff>\"\t\n\tkey_mgmt=<xliff>%3$s</xliff>\t\n\tpriority=<xliff>%4$s</xliff>\t\n}</string>
+</resources>

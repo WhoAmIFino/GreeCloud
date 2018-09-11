@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="artifacts:GreeGui-3.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GreeGui-3.1.1.aar/bcb701dfa892a8d1905972f7fdb1681f/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GreeGui-3.1.1.aar/bcb701dfa892a8d1905972f7fdb1681f/jars/libs/GreeAccount.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GreeGui-3.1.1.aar/bcb701dfa892a8d1905972f7fdb1681f/jars/libs/android-support-v4.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GreeGui-3.1.1.aar/bcb701dfa892a8d1905972f7fdb1681f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

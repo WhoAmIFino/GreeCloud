@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\SVN\\GreeCloud\\01_code\\GreeCloud\\greeCloud\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\GreeGui-3.1.1.aar\\bcb701dfa892a8d1905972f7fdb1681f\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,37,38,39,40,41",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,400,2273,2307,2343,2414,2449",
+                        "endLines": "7,36,37,38,39,40,43",
+                        "endColumns": "24,24,33,35,70,34,12",
+                        "endOffsets": "395,2268,2302,2338,2409,2444,2581"
+                    }
+                }
+            ]
+        }
+    ]
+}

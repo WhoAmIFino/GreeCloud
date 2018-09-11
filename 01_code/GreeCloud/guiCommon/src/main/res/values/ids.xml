@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="gui_common_tabViewPager" type="id"></item>
+    
+    <item name="gui_common_node_header" type="id" />
+    <item name="gui_common_node_items" type="id" />
+    <item name="gui_common_tree_items" type="id" />
+    
+    <!-- menu drawer -->
+    
+    <!-- ID used when defining the content layout in XML. -->
+    <item name="gui_common_mdContent" type="id" />
+
+    <!-- ID used when defining the menu layout in XML. -->
+    <item name="gui_common_mdMenu" type="id" />
+
+    <!-- The ID of the content container. -->
+    <item name="gui_common_md__content" type="id" />
+
+    <!-- The ID of the menu container. -->
+    <item name="gui_common_md__menu" type="id" />
+
+    <!-- The ID of the drawer. -->
+    <item name="gui_common_md__drawer" type="id" />
+
+    <!-- Used with View#setTag(int) to specify a position for the active view. -->
+    <item name="gui_common_mdActiveViewPosition" type="id" />
+
+    <item name="gui_common_md__translationX" type="id" />
+
+    <item name="gui_common_md__translationY" type="id" />
+    
+    <!-- menu drawer end -->
+    
+</resources>

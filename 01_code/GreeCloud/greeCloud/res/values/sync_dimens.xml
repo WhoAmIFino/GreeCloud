@@ -1,0 +1,27 @@
+<resources>
+
+    <dimen name="text_menu_size">15.6sp</dimen>
+    <dimen name="text_actionbar_title_size">22.8sp</dimen>
+    <dimen name="text_size">19.2sp</dimen>
+
+    <dimen name="main_item_des_height">27.6dp</dimen>
+    <dimen name="root_padding_lr">16.8dp</dimen>
+    <dimen name="text_sub_des_size">14.4sp</dimen>
+
+    <dimen name="item_padding">18dp</dimen>
+    <dimen name="user_info_item_right_draw_padding">4.8dp</dimen>
+
+    <dimen name="btn_corners">8.4dp</dimen>
+    <dimen name="btn_margin_lr">50.4dp</dimen>
+    <dimen name="btn_margin_bottom">13.2dp</dimen>
+    <dimen name="btn_padding">12dp</dimen>
+    <dimen name="dialog_title_size">20.4sp</dimen>
+    <dimen name="dialog_title_margin">30dp</dimen>
+    <dimen name="edt_margintop">24dp</dimen>
+    <dimen name="text_des_size">15.6sp</dimen>
+    <dimen name="edt_padding">12dp</dimen>
+    <dimen name="edt_btn_margin_lr">10.8dp</dimen>
+    <dimen name="text_edit_content_size">18sp</dimen>
+
+
+</resources>

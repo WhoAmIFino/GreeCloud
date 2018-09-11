@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/gui_common_popup_menu_round"
+    >
+
+    <TextView 
+        android:id="@+id/header_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:paddingTop="5dip"
+        android:paddingBottom="5dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:background="@null"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:visibility="gone"
+        />
+    
+    <View
+        android:id="@+id/title_line"
+	    android:layout_width="fill_parent"
+	    android:layout_height="1dp"
+	    android:background="@color/gui_common_lite_blue"
+	    android:visibility="gone" >
+	</View>
+
+    <ListView 
+        android:id="@+id/items"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="@android:color/transparent"
+        android:divider="@drawable/gui_common_list_divider_holo_light"
+        
+        
+        />
+    
+</LinearLayout>

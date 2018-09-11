@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/layout_full"
+    android:orientation="vertical">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    <LinearLayout
+        style="@style/layout_wrap"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/ripple_head_bg"
+        android:clickable="true"
+        android:onClick="headClick"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/root_padding_lr">
+
+        <com.guicommon.widget.drawable.RoundedImageView
+            android:id="@+id/sync_main_head"
+            android:layout_width="78dp"
+            android:layout_height="78dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/def_head" />
+
+        <TextView
+            android:layout_gravity="center"
+            android:id="@+id/sync_main_name"
+            style="@style/layout_wrap"
+            android:text="@string/def_user_name"
+            android:textColor="@color/gree_blue"
+            android:textSize="@dimen/text_size" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="@color/gree_line_gray" />
+
+    <TextView
+        style="@style/item_classification"
+        android:text="@string/sync" />
+
+    <fragment
+        android:id="@+id/main_switch_fragment"
+        android:name="com.gree.greecloud.sync.activity.SwtichFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

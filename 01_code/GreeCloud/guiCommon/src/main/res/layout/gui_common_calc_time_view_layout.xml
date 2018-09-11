@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp" >
+
+        <include layout="@layout/gui_common_calc_time_view_title" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/title" >
+
+        <View
+            android:id="@+id/group_tiao"
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="35dp"
+            android:background="@color/gui_common_time_line_bg" />
+
+        <ListView
+            android:id="@+id/timelist"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:listSelector="@drawable/gui_common_null_selector"
+            android:cacheColorHint="#00000000"
+            android:scrollbars="none"
+            android:divider="@null" />
+    </RelativeLayout>
+
+</RelativeLayout>

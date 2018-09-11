@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreeCloud.iml" filepath="$PROJECT_DIR$/GreeCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreeGui-3.1.1/GreeGui-3.1.1.iml" filepath="$PROJECT_DIR$/GreeGui-3.1.1/GreeGui-3.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeCloud/greeCloud.iml" filepath="$PROJECT_DIR$/greeCloud/greeCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guiCommon/guiCommon.iml" filepath="$PROJECT_DIR$/guiCommon/guiCommon.iml" />
+    </modules>
+  </component>
+</project>

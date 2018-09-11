@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">格力云</string>
+    <string name="app_sync_title">格力云</string>
+    
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="next">下一步</string>
+    
+    <!-- 格力云 -->
+    <string name="def_user_name">请登录格力账号</string>
+    <string name="sync">数据同步</string>
+    <string name="contact">联系人</string>
+    <string name="sms">短信</string>
+    <string name="calendar">日历事件</string>
+    <string name="wifi">Wifi</string>
+    <string name="findphone">查找手机</string>
+    <string name="agree_find_this_phone">允许查找本机</string>
+    <string name="find_my_phone">查找我的手机</string>
+    <string name="about_find_phone">关于查找手机</string>
+    <string name="find_phone_alert">开启查找手机后默认获取定位信息权限，是否继续？</string>
+
+    <string name="password_rule">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="input_pwd">输入密码</string>
+    <string name="max_length">已达到最大长度</string>
+    <string name="input_account_pwd">请输入账号密码</string>
+    <string name="pwd_error">密码格式不正确</string>
+    <string name="pwd_not_right">密码错误</string>
+    <string name="pwd_is_null">密码不能为空</string>
+    <string name="foget_pwd">忘记密码</string>
+    <string name="sync_contact">同步联系人</string>
+    <string name="sync_merge_title">本地和云端联系人将相互合并</string>
+    <string name="sync_over_cloud_title">本地覆盖云端</string>
+    <string name="sync_over_local_title">云端覆盖本地</string>
+    <string name="sync_merge">本地与云端合并</string>
+    <string name="sync_over_cloud">本地覆盖云端</string>
+    <string name="sync_over_local">云端覆盖本地</string>
+    <string name="sync_voer_local_des">将云端数据覆盖本地同步</string>
+    <string name="sync_local_label"><xliff>%1$d</xliff>人\n本地</string>
+    <string name="sync_cloud_label"><xliff>%1$d</xliff>人\n云端</string>
+    <string name="no_app">无对应APP</string>
+    <string name="wifiinfo">network={\t\n\tssid=\"<xliff>%1$s</xliff>\"\t\n\tpsk=\"<xliff>%2$s</xliff>\"\t\n\tkey_mgmt=<xliff>%3$s</xliff>\t\n\tpriority=<xliff>%4$s</xliff>\t\n}</string>
+</resources>

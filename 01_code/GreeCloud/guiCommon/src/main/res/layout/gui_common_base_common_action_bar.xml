@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="?android:attr/actionBarSize">
+	
+    <LinearLayout 
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="horizontal"
+		android:baselineAligned="false"
+		android:id="@+id/searchbarlayout"
+		android:visibility="gone"
+		 >
+	    <com.guicommon.widget.StyleSearchView
+	        android:id="@+id/searchbar"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="1"
+	        android:iconifiedByDefault="false"
+	        android:inputType="textFilter"
+	        android:visibility="gone"
+	         />
+	    <TextView 
+	        android:id="@+id/cancel_search"
+	        android:layout_width="wrap_content"
+	        android:layout_height="match_parent"
+	        android:gravity="center"
+	        android:textSize="19sp"
+	        android:textColor="@color/gui_common_text_white_color_selector"
+	        android:text="@string/gui_common_cancel"
+	        android:layout_marginRight="8dp"
+	        />
+    </LinearLayout>
+    	
+	<LinearLayout 
+		android:layout_width="match_parent"
+		android:id="@+id/title_layout"
+		android:layout_height="match_parent"
+		android:orientation="horizontal"
+		android:baselineAligned="false" >
+	       <!-- 左边部分 -->
+			<LinearLayout
+				android:id="@+id/base_common_title_left_lay"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="1"
+				android:visibility="gone"
+				android:gravity="center_vertical"
+				android:orientation="horizontal" >
+		
+			</LinearLayout>
+		   
+			<!-- 标题 -->
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:gravity="center_vertical"
+				android:orientation="vertical" >
+		
+				<TextView
+					android:id="@+id/base_common_title_textview"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_vertical"
+					android:layout_marginLeft="15dp"
+					android:singleLine="true"
+					android:text="@string/gui_common_null_desc"
+					android:textColor="@android:color/white"
+					android:textSize="24sp" />
+			</LinearLayout>
+		
+			<!-- 右边部分 -->
+		
+			<LinearLayout
+				android:id="@+id/base_common_title_right_lay"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="1"
+				android:gravity="center_vertical"
+				android:orientation="horizontal" >
+		      <View 
+				android:layout_width="0dp"
+		      	android:layout_height="match_parent"
+				android:layout_weight="1"
+				android:background="@android:color/transparent"
+				/>
+	
+	  	</LinearLayout>
+	     
+	 </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:homeAsUpIndicator">@drawable/ic_nav_back</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:splitMotionEvents">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:colorPrimary">@color/actionbar_bg</item>
+        <item name="android:colorPrimaryDark">@android:color/white</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:toolbarStyle">@style/Theme.ToolBar</item>
+        <item name="android:actionMenuTextAppearance">@style/MenuTextStyle</item>
+        <item name="android:textAppearance">@style/MyTextStyle</item>
+    </style>
+    <!--F add for actionBar style-->
+    <style name="Theme.ToolBar" parent="@android:style/Widget.Material.Toolbar">
+        <item name="android:contentInsetStart">16.8dp</item>
+        <item name="android:titleTextAppearance">@style/ToolBarTitle</item>
+        <!--<item name="android:contentInsetStartWithNavigation">45dp</item>-->
+        <item name="android:navigationButtonStyle">@style/NavigationButtonStyle</item>
+        <item name="android:contentInsetStartWithNavigation">0dp</item>
+        <item name="android:titleMarginStart">0dp</item>
+    </style>
+
+    <style name="NavigationButtonStyle" parent="@android:style/Widget.Material.Toolbar.Button.Navigation">
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingStart">16.8dp</item>
+        <item name="android:paddingEnd">13.2dp</item>
+    </style>
+
+    <style name="ToolBarTitle" parent="@android:style/TextAppearance.Material.Widget.Toolbar.Title">
+        <item name="android:textColor">@color/gree_black</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <!---->
+    <style name="MyTextStyle" parent="android:style/TextAppearance.Material">
+       
+    </style>
+
+    <style name="MenuTextStyle">
+        <item name="android:textSize">@dimen/text_menu_size</item>
+    </style>
+
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:titleTextStyle">@style/ActionBarTitle</item>
+    </style>
+
+    <style name="ActionBarTitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/gree_black</item>
+        <item name="android:textSize">@dimen/text_actionbar_title_size</item>
+    </style>
+
+    <style name="dialog_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--自定义的操作区-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+    <TextView
+        android:id="@+id/action1"
+
+        android:layout_height="match_parent"
+        android:layout_width="0dp"
+        android:background="#ff6030"
+        android:textSize="17sp"
+        android:gravity="center"
+        android:layout_weight="1"
+        />
+    <TextView
+        android:id="@+id/action2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:background="#f35"
+        android:textColor="#fff"
+        android:layout_weight="1"
+        android:textSize="17sp"
+        android:gravity="center"
+
+        />
+</LinearLayout>

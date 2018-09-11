@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:floating="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout 
+        android:id="@+id/titles"
+        android:layout_width="match_parent"
+	   	android:layout_height="wrap_content"
+	   	android:orientation="vertical"
+	   	android:background="@drawable/gui_common_gradient_bg_green_phone_selector"
+	   	android:elevation="@dimen/gui_common_title_bar_elevation"
+        >
+		<View
+	        android:layout_width="match_parent"
+	        android:layout_height="25dp"
+	        android:id="@+id/statusbar"
+	        android:background="@android:color/transparent"
+	        />
+	    
+	    <com.guicommon.widget.layout.CommonActionBar
+
+	        android:id="@+id/common_action_bar"
+	        android:layout_width="wrap_content"
+	        android:background="@android:color/transparent"
+	        android:layout_height="?android:attr/actionBarSize" />
+	    
+	    <!--com.guicommon.widget.tab.ViewPagerIndicator
+	        android:id="@+id/tabs"
+	        app:pstsShouldExpand="true"
+	        android:layout_width="match_parent"
+	        android:layout_height="48dip"
+	        
+	        android:background="@null" /-->
+	        
+		<com.guicommon.widget.tab.ArrowViewPagerIndicator
+	        android:id="@+id/tabs"
+	        android:layout_width="match_parent"
+	        android:layout_height="48dip"
+	        android:background="@android:color/transparent"
+	        android:orientation="horizontal"
+	        
+	        app:gui_common_visible_tab_count="3" />
+    </LinearLayout>
+    
+
+    <RelativeLayout
+        android:id="@+id/baseCenterView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/titles" >
+    </RelativeLayout>
+    
+    <!-- Floating Button 需包裹一个layout 才能避免其他外围layout的变化导致坐标错乱 -->
+    <RelativeLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	     >
+	    <com.guicommon.widget.button.FloatingActionButton
+	        android:id="@+id/fab"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentBottom="true"
+	
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginRight="16dp"
+	        android:layout_marginBottom="20dp"
+	        android:src="@drawable/gui_common_ic_action_edit_dark"
+	        floating:floatingActionButtonColor="@color/gui_common_fab_light"
+	        android:layout_alignWithParentIfMissing="true"
+	        
+	        />
+	</RelativeLayout>
+
+</RelativeLayout>

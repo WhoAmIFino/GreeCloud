@@ -1,0 +1,113 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimaryDark">#000000</item>
+        <item name="android:colorPrimary">#FFFFFF</item>
+    </style>
+
+    <!-- 宽高属性重用 -->
+    <style name="layout_full">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="layout_wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="layout_width_full">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="layout_height_full">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="head_style" parent="layout_wrap">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">@dimen/head_margin_tb</item>
+        <item name="android:layout_marginTop">@dimen/head_margin_tb</item>
+        <item name="android:drawablePadding">@dimen/head_drawable_padding</item>
+        <item name="android:drawableTop">@drawable/def_head</item>
+        <item name="android:textColor">@color/text_color_blue</item>
+        <item name="android:textSize">@dimen/common_text_size_48</item>
+        <item name="android:background">?android:attr/selectableItemBackgroundBorderless</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="diviter_line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/common_diviter_height</item>
+        <item name="android:background">@color/diviter_line_bg</item>
+    </style>
+
+    <style name="item_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/item_height</item>
+        <item name="android:paddingStart">@dimen/common_content_padding</item>
+        <item name="android:paddingEnd">@dimen/common_content_padding</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="item_title_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/item_title_height</item>
+        <item name="android:background">@color/bg_color_black_05</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingEnd">@dimen/common_content_padding</item>
+        <item name="android:paddingStart">@dimen/common_content_padding</item>
+        <item name="android:textColor">@color/text_color_black_52</item>
+        <item name="android:textSize">@dimen/common_text_size_52</item>
+    </style>
+
+    <style name="item_name_style" parent="layout_wrap">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/common_text_size_68</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="item_check" parent="layout_wrap">
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">false</item>
+    </style>
+
+    <style name="radio_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/item_height</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/common_text_size_68</item>
+        <item name="android:paddingStart">@dimen/sync_dialog_radio_padding</item>
+    </style>
+
+    <style name="sync_dialog_icon_style" parent="layout_wrap">
+        <item name="android:drawablePadding">@dimen/sync_dialog_icon_draw_padding</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/common_text_size_48</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    
+    <style name="dialog_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+
+</resources>

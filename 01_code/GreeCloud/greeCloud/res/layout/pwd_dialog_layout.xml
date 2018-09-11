@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/layout_full"
+    android:background="@drawable/gui_common_dialog_corners"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title_tv"
+        style="@style/layout_wrap"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/dialog_title_margin"
+        android:textColor="@color/gree_black"
+        android:textSize="@dimen/dialog_title_size" />
+
+    <com.gree.greecloud.view.PasswdEditView
+        android:id="@+id/password_edt"
+        style="@style/edt_layout" />
+
+    <RelativeLayout
+        style="@style/layout_width_full"
+        android:layout_margin="24dp"
+        android:layout_marginLeft="@dimen/btn_margin_lr"
+        android:layout_marginRight="@dimen/btn_margin_lr"
+        android:layout_marginTop="14dp">
+
+        <TextView
+            android:id="@+id/dialog_error_txv"
+            style="@style/layout_wrap"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/gree_red"
+            android:textSize="@dimen/text_des_size" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="@color/gree_gray" />
+
+    <LinearLayout
+        style="@style/layout_width_full"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/cancel_btn"
+            style="@style/btn_black"
+            android:layout_width="0dp"
+            android:layout_margin="0dp"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/confirm_btn"
+            style="@style/btn_black"
+            android:layout_width="0dp"
+            android:layout_margin="0dp"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:text="@string/confirm" />
+    </LinearLayout>
+
+</LinearLayout>

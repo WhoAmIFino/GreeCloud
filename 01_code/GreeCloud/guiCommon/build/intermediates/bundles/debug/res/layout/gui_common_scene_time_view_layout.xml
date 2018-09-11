@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SceneTimeView" >
+
+        <View
+            android:id="@+id/group_tiao"
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="75dp"
+            android:background="@color/gui_common_time_line_bg" />
+
+        <ScrollView 
+            android:id="@+id/scrollview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none"
+            >
+            <LinearLayout 
+                android:id="@+id/list_layout"
+                android:layout_width="fill_parent"
+            	android:layout_height="fill_parent"
+            	android:orientation="vertical"
+                >
+                
+            </LinearLayout>
+        </ScrollView>
+        
+        <!-- ListView
+            android:id="@+id/timelist"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:listSelector="@drawable/gui_common_null_selector"
+            android:cacheColorHint="#00000000"
+            android:scrollbars="none"
+            android:divider="@null" /-->
+
+</RelativeLayout>

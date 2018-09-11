@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Theme for Gui
+-->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="Gui.ActionBar" parent="@android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:background">@drawable/gui_common_ab_solid_light_holo</item>
+        <item name="android:backgroundSplit">@drawable/gui_common_bottom_actionbar_background</item>
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:indeterminateProgressStyle">@style/Gui.Common.ProgressBar</item><!-- add by zhouys@20150413 -->
+    </style>
+
+    <!--  
+    <style name="Gui.ListSeparator" parent="@*android:style/Widget.Holo.Light.TextView.ListSeparator">
+        <item name="android:background">@drawable/gui_common_list_section_divider_holo_light</item>
+        <item name="@android:textStyle">normal</item>
+        <item name="@android:textColor">@color/zui_preferencecategory_color</item>
+    </style>
+
+    <style name="Gui.CheckBoxPreference" parent="@*android:style/Preference.Holo.CheckBoxPreference">
+        <item name="android:widgetLayout">@layout/zui_common_preference_widget_checkbox</item>
+    </style>
+
+    <style name="Gui.PreferenceHeaderList" parent="@*android:style/PreferenceHeaderList">
+        <item name="android:paddingStart">0dip</item>
+        <item name="android:paddingEnd">0dip</item>
+    </style>
+
+    <style name="Gui.PreferenceFragment" parent="@*android:style/PreferenceFragment.Holo">
+        <item name="android:paddingStart">0dip</item>
+        <item name="android:paddingEnd">0dip</item>
+    </style>
+
+    <style name="Gui.PreferenceFragmentList" parent="@*android:style/PreferenceFragmentList">
+        <item name="android:paddingStart">0dip</item>
+        <item name="android:paddingEnd">0dip</item>
+    </style>
+    
+    -->
+    
+<!--         <item name="android:overScrollMode">never</item> -->
+    
+    <style name="gui.OverFlow" parent="android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/gui_common_ic_actionbar_overflow</item>
+    </style>
+    
+    <style name="Gui.ActionbarMenuText" parent="@android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:textSize">@*android:dimen/action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/actionMenuTextColor</item>
+        <item name="android:textAllCaps">@*android:bool/config_actionMenuItemAllCaps</item>
+    </style>
+    
+    <style name="Gui.Spinner" parent="android:style/Widget.Spinner">
+        <item name="android:background">@drawable/gui_spinner_bg</item>
+    </style>
+    
+    <!-- add by zhouys@20150108 In order to modify the system radio style -->
+    <!-- style name="Gui.Theme.Dialog.Alert" parent="@*android:style/Theme.Holo.Light.Dialog.Alert">
+        <item name="@*android:listChoiceIndicatorSingle">@drawable/gui_common_btn_radio</item>
+    </style-->
+    
+    <style name="CustomActionModeButtonClose">
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_marginStart">-37dip</item>
+    </style>
+        
+    <style name="Gui.Theme" parent="@android:style/Theme.Material.Light">
+
+        <!-- Action bar styles -->
+        <item name="android:homeAsUpIndicator">@drawable/gui_common_ic_ab_back_holo_light</item>
+        <item name="android:actionBarStyle">@style/Gui.ActionBar</item>
+        <item name="android:actionOverflowButtonStyle">@style/gui.OverFlow</item>
+        <item name="android:actionMenuTextAppearance">@style/Gui.ActionbarMenuText</item>
+        
+        <!--item name="android:actionBarHomeAsUpBackground">@color/gui_common_red</item-->
+        
+        <item name="android:actionModeCloseButtonStyle">@style/CustomActionModeButtonClose</item>
+        <item name="android:actionModeCloseDrawable">@null</item>
+        
+        <item name="android:buttonBarPositiveButtonStyle">@style/Gui.Common.Button.ButtonBar.AlertDialog.Positive</item>
+
+        <!-- preference styles -->
+        <!--
+        <item name="android:checkBoxPreferenceStyle">@style/Gui.CheckBoxPreference</item>
+        <item name="@*android:preferenceListStyle">@style/Gui.PreferenceHeaderList</item>
+        <item name="@*android:preferenceFragmentStyle">@style/Gui.PreferenceFragment</item>
+        <item name="@*android:preferenceFragmentListStyle">@style/Gui.PreferenceFragmentList</item>
+        <item name="@*android:preferenceFragmentPaddingSide">0dip</item>
+        <item name="android:windowBackground">@drawable/gui_common_windowcontentoverlay_background</item>
+		-->
+		    
+        <!-- Window attributes -->
+        <item name="android:windowContentOverlay">@null</item>
+
+        
+        <!-- list styles -->
+        <!-- item name="android:listSeparatorTextViewStyle">@style/Gui.ListSeparator</item-->
+        <item name="android:listDivider">@drawable/gui_common_list_divider_holo_light</item>
+        <!-- add by zhousy@20150108 Defines over-scrolling behavior. -->
+        <item name="android:overScrollMode">never</item>
+        
+        <!-- Text selection handle attributes -->
+        <item name="android:textCursorDrawable">@drawable/gui_common_text_cursor_holo_light</item>
+        <item name="android:textColorSecondary">@color/gui_summary_color</item>
+        <item name="android:textColorHint">@color/gui_common_default_hint</item>
+        <!-- Widget styles -->
+        <item name="android:listPopupWindowStyle">@style/Gui.Common.listPopupWindow</item>
+        <item name="android:popupMenuStyle">@style/Gui.Common.listPopupWindow</item>
+        
+        <item name="android:panelBackground">@drawable/gui_common_popupview_menu_background</item>
+        <!--
+        <item name="@*android:panelMenuListWidth">230dip</item>
+        <item name="@*android:panelMenuListTheme">@style/gui.listPopupWindow</item>
+        -->
+  
+        <!-- linlian@2014.12.04 add spinnner stytle -->
+        <item name="android:spinnerStyle">@style/Gui.Spinner</item>
+        
+        <!-- zhouys@20141220 add dialogStyle -->
+        <!-- item name="android:alertDialogTheme">@style/gui.customalertdialog</item-->
+
+        <item name="android:listChoiceIndicatorMultiple">@drawable/gui_common_checkbox_button</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/gui_common_btn_radio_holo_light</item>
+        
+        <!-- zhouys@20150413 add progressBarStyle -->
+        <item name="android:progressBarStyle">@style/Gui.Common.ProgressBar</item>
+        <item name="android:progressBarStyleSmall">@style/Gui.Common.ProgressBar.Small</item>
+        <item name="android:progressBarStyleLarge">@style/Gui.Common.ProgressBar.Large</item>
+        <item name="android:progressBarStyleInverse">@style/Gui.Common.ProgressBar.Inverse</item>
+        <item name="android:progressBarStyleSmallInverse">@style/Gui.Common.ProgressBar.Small.Inverse</item>
+        <item name="android:progressBarStyleLargeInverse">@style/Gui.Common.ProgressBar.Large.Inverse</item>
+
+        <item name="floatingActionButtonColor">@color/gui_common_fab_light</item>
+        
+    </style>
+    
+    <style name="Gui.Theme.NoTitle" parent="Gui.Theme">
+
+        <!-- Window styles -->
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="floatingActionButtonColor">@color/gui_common_fab_light</item>
+    </style>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="oval">
+    <gradient
+        android:type="radial"
+        android:gradientRadius="100"
+        android:startColor="#f000"
+        android:endColor="#0000"
+        />
+    <padding
+        android:left="@dimen/gui_common_floating_action_button_shadow_padding_left"
+        android:top="@dimen/gui_common_floating_action_button_shadow_padding_top"
+        android:right="@dimen/gui_common_floating_action_button_shadow_padding_right"
+        android:bottom="@dimen/gui_common_floating_action_button_shadow_padding_bottom"/>
+</shape>

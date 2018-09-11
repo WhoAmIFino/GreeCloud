@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/layout_full"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/layout_width_full"
+        android:layout_marginTop="42dp"
+        android:paddingStart="@dimen/root_padding_lr"
+        android:text="@string/app_sync_title"
+        android:textColor="@color/gree_black"
+        android:textSize="25sp" />
+
+    <TextView
+        style="@style/item_classification"
+        android:text="@string/sync_voer_local_des" />
+
+    <fragment
+        android:id="@+id/switch_fragment"
+        android:name="com.gree.greecloud.sync.activity.OtherSwitchFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/fragment_swtich" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/btn_next"
+        style="@style/btn_blue"
+        android:onClick="nextClick"
+        android:text="@string/next" />
+
+</LinearLayout>

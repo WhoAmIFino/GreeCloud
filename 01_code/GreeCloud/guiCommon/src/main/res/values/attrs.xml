@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- custom viewpager attrs -->
+    <declare-styleable name="gui_common_vpidtabhost_attrs">
+        <attr name="titlebarheight" format="dimension" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="titleTextInActivteColor" format="color" />
+        <attr name="titleTextActivteColor" format="color" />
+    </declare-styleable>
+    
+    <declare-styleable name="gui_common_checkbox_attrs">
+        <attr name="checked" format="boolean" />
+    </declare-styleable>
+
+
+    <declare-styleable name="gui_common_alphabetical_list_attrs"> 
+        <attr name="bgColor" format="color" />
+        <attr name="letterColor" format="color" />
+        <attr name="choosenColor" format="color" />
+        <attr name="letterSize" format="integer" />
+        <attr name="promptHorzOffset" format="dimension"></attr>
+        <attr name="promptVertOffset" format="dimension"></attr>
+    </declare-styleable>
+    
+    <declare-styleable name="gui_commom_button_attrs">
+        <attr name="bracketColor" format="color" />
+    </declare-styleable>
+
+    
+    <declare-styleable name="gui_common_StickyListHeadersListView">
+        <attr name="gui_stickyListHeadersListViewStyle" format="reference"/>
+
+        <!-- View attributes -->
+        <attr name="android:clipToPadding" />
+        <attr name="android:scrollbars" />
+        <attr name="android:overScrollMode" />
+        <attr name="android:padding" />
+        <attr name="android:paddingLeft" />
+        <attr name="android:paddingTop" />
+        <attr name="android:paddingRight" />
+        <attr name="android:paddingBottom" />
+
+        <!-- ListView attributes -->
+        <attr name="android:fadingEdgeLength" />
+        <attr name="android:requiresFadingEdge" />
+        <attr name="android:cacheColorHint" />
+        <attr name="android:choiceMode" />
+        <attr name="android:drawSelectorOnTop" />
+        <attr name="android:fastScrollEnabled" />
+        <attr name="android:fastScrollAlwaysVisible" />
+        <attr name="android:listSelector" />
+        <attr name="android:scrollingCache" />
+        <attr name="android:scrollbarStyle" />
+        <attr name="android:divider" />
+        <attr name="android:dividerHeight" />
+        <attr name="android:transcriptMode" />
+        <attr name="android:stackFromBottom" />
+
+        <!-- StickyListHeaders attributes -->
+        <attr name="hasStickyHeaders" format="boolean" />
+        <attr name="isDrawingListUnderStickyHeader" format="boolean" />
+    </declare-styleable>
+    
+    <declare-styleable name="gui_common_FloatingActionButton">
+        <!-- Background color -->
+        <attr name="floatingActionButtonColor" format="color|reference"/>
+        <!-- Size of action button -->
+        <attr name="floatingActionButtonSize" format="enum">
+            <!-- 56dp -->
+            <enum name="normal" value="0"/>
+            <!-- 40dp -->
+            <enum name="mini" value="1"/>
+        </attr>
+        <!-- Elevation will be configured for API level 21 according to this attribute. Default value is true. -->
+        <attr name="floatingActionButtonImplicitElevation" format="boolean"/>
+        <!-- Show shadow or not, default value is true -->
+        <attr name="floatingActionButtonShadow" format="boolean"/>
+    </declare-styleable>
+    
+    
+    <attr name="gui_common_floatingActionButtonStyle" format="reference"/>
+    
+    <declare-styleable name="gui_common_PagerSlidingTabStrip">
+        <attr name="pstsIndicatorColor" format="color" />
+        <attr name="pstsUnderlineColor" format="color" />
+        <attr name="pstsDividerColor" format="color" />
+        <attr name="pstsIndicatorHeight" format="dimension" />
+        <attr name="pstsUnderlineHeight" format="dimension" />
+        <attr name="pstsDividerPadding" format="dimension" />
+        <attr name="pstsTabPaddingLeftRight" format="dimension" />
+        <attr name="pstsScrollOffset" format="dimension" />
+        <attr name="pstsTabBackground" format="reference" />
+        <attr name="pstsShouldExpand" format="boolean" />
+        <attr name="pstsTextAllCaps" format="boolean" />
+    </declare-styleable>
+    
+    
+	<attr name="gui_common_visible_tab_count" format="integer" />
+
+    <declare-styleable name="gui_common_ViewPagerIndicator">
+        <attr name="gui_common_visible_tab_count" />
+    </declare-styleable>
+    
+    
+    <!-- Menu drawer -->
+        <!-- Reference to a style for the menu drawer. -->
+    <attr name="gui_common_menuDrawerStyle" format="reference" />
+
+    <!-- Styleables used for styling the menu drawer. -->
+    <declare-styleable name="gui_common_MenuDrawer">
+
+        <!-- Drawable to use for the background of the content. -->
+        <attr name="mdContentBackground" format="reference" />
+
+        <!-- Drawable to use for the background of the menu. -->
+        <attr name="mdMenuBackground" format="reference" />
+
+        <!-- The size of the menu. -->
+        <attr name="mdMenuSize" format="dimension" />
+
+        <!-- Drawable used as indicator for the active view. -->
+        <attr name="mdActiveIndicator" format="reference" />
+
+        <!-- Defines whether the content will have a dropshadow onto the menu. Default is true. -->
+        <attr name="mdDropShadowEnabled" format="boolean" />
+
+        <!-- The size of the drop shadow. Default is 6dp -->
+        <attr name="mdDropShadowSize" format="dimension" />
+
+        <!-- The color of the drop shadow. Default is #FF000000. -->
+        <attr name="mdDropShadowColor" format="color" />
+
+        <!-- Drawable used for the drop shadow. -->
+        <attr name="mdDropShadow" format="reference" />
+
+        <!-- The touch bezel size. -->
+        <attr name="mdTouchBezelSize" format="dimension" />
+
+        <!-- Whether the indicator should be animated between active views. -->
+        <attr name="mdAllowIndicatorAnimation" format="boolean" />
+
+        <!-- The maximum animation duration -->
+        <attr name="mdMaxAnimationDuration" format="integer" />
+
+        <!-- Drawable that replaces the up indicator -->
+        <attr name="mdSlideDrawable" format="reference" />
+
+        <!-- String to use as the up indicators content description when the drawer is open -->
+        <attr name="mdDrawerOpenUpContentDescription" format="string" />
+
+        <!-- String to use as the up indicators content description when the drawer is closed -->
+        <attr name="mdDrawerClosedUpContentDescription" format="string" />
+
+        <!-- Whether an overlay should be drawn as the drawer is opened and closed -->
+        <attr name="mdDrawOverlay" format="boolean" />
+
+        <!-- The position of the drawer -->
+        <attr name="mdPosition" format="enum">
+            <enum name="left" value="0" />
+            <enum name="top" value="1" />
+            <enum name="right" value="2" />
+            <enum name="bottom" value="3" />
+            <enum name="start" value="4" />
+            <enum name="end" value="5" />
+        </attr>
+    </declare-styleable>
+    
+    <!-- Menu drawer end -->
+    
+    <!-- shadow view  -->
+    <declare-styleable name="gui_common_ShadowView">
+
+        <!-- 相对另外一个控件的X偏移量 -->
+        <attr name="shadowOffsetX" format="dimension" />
+
+        <!-- 相对另外一个控件的Y偏移量 -->
+        <attr name="shadowOffsetY" format="dimension" />
+    </declare-styleable>
+    
+    <!-- shadow view end -->
+    
+    <declare-styleable name="gui_common_slide_option_layout_style">
+        <attr name="slide_layout_attached" format="boolean" />
+    </declare-styleable>
+    
+    <!--   ysf start-->    
+
+    <declare-styleable name="FlatButton">
+        <attr name="shadowEnabled" format="boolean" />
+        <attr name="buttonColor" format="color" />
+        <attr name="shadowColor" format="color" />
+        <attr name="shadowHeight" format="dimension" />
+        <attr name="cornerRadius" format="dimension" />
+    </declare-styleable>
+    
+    <!--   end ysf -->
+
+    <declare-styleable name="SlidingUpPanelLayout">
+        <attr name="panelHeight" format="dimension" />
+        <attr name="shadowHeight"  />
+        <attr name="slideRange" format="dimension" />
+        <attr name="paralaxOffset" format="dimension" />
+        <attr name="fadeColor" format="color" />
+        <attr name="flingVelocity" format="integer" />
+        <attr name="dragView" format="reference" />
+        <attr name="overlay" format="boolean"/>
+        <attr name="anchorPoint" format="float" />
+        <attr name="initialState" format="enum">
+            <enum name="expanded" value="0" />
+            <enum name="collapsed" value="1" />
+            <enum name="anchored" value="2" />
+            <enum name="hidden" value="3" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="GuiCommonWheelView">
+        <attr name="unitHeightGui" format="dimension" />
+        <attr name="itemNumberGui" format="integer"/>
+
+        <attr name="normalTextColorGui" format="color" />
+        <attr name="normalTextSizeGui" format="dimension" />
+        <attr name="selectedTextColorGui" format="color" />
+        <attr name="selectedTextSizeGui" format="dimension" />
+
+        <attr name="lineColorGui" format="color" />
+        <attr name="lineHeightGui" format="dimension" />
+
+        <attr name="maskHeightGui" format="dimension"/>
+        <attr name="noEmptyGui" format="boolean"/>
+        <attr name="isEnableGui" format="boolean"/>
+
+    </declare-styleable>
+    
+    <declare-styleable name="NumberPickerView">
+        <!--set number of item displayed, default is 3-->
+        <attr name="gree_ShowCount" format="reference|integer" />
+        <!--set if show divider, default is true-->
+        <attr name="gree_ShowDivider" format="reference|boolean" />
+        <attr name="gree_DividerColor" format="reference|color" />
+        <attr name="gree_DividerMarginLeft" format="reference|dimension" />
+        <attr name="gree_DividerMarginRight" format="reference|dimension" />
+        <attr name="gree_DividerHeight" format="reference|dimension" />
+        <attr name="gree_TextColorNormal" format="reference|color" />
+        <attr name="gree_TextColorSelected" format="reference|color" />
+        <attr name="gree_TextColorHint" format="reference|color" />
+        <attr name="gree_TextSizeNormal" format="reference|dimension" />
+        <attr name="gree_TextSizeSelected" format="reference|dimension" />
+        <attr name="gree_TextSizeHint" format="reference|dimension" />
+        <attr name="gree_TextArray" format="reference" />
+        <attr name="gree_MinValue" format="reference|integer" />
+        <attr name="gree_MaxValue" format="reference|integer" />
+        <attr name="gree_WrapSelectorWheel" format="reference|boolean" />
+        <attr name="gree_RespondChangeOnDetached" format="reference|boolean" />
+        <attr name="gree_HintText" format="reference|string" />
+        <attr name="gree_EmptyItemHint" format="reference|string" />
+        <attr name="gree_MarginStartOfHint" format="reference|dimension" />
+        <attr name="gree_MarginEndOfHint" format="reference|dimension" />
+        <attr name="gree_ItemPaddingHorizontal" format="reference|dimension" />
+        <attr name="gree_ItemPaddingVertical" format="reference|dimension" />
+        <attr name="gree_RespondChangeInMainThread" format="reference|boolean" />
+        <attr name="gree_TextEllipsize" format="reference|string" />
+
+        <!--just used to measure maxWidth for wrap_content without hint,
+            the string array will never be displayed.
+            you can set this attr if you want to keep the wraped numberpickerview
+            width unchanged when alter the content list-->
+        <attr name="gree_AlternativeTextArrayWithMeasureHint" format="reference" />
+        <attr name="gree_AlternativeTextArrayWithoutMeasureHint" format="reference" />
+        <!--the max length of hint content-->
+        <attr name="gree_AlternativeHint" format="reference|string" />
+    </declare-styleable>
+    
+    
+    <declare-styleable name="GuiSwitchButton">
+        <attr name="guiThumbDrawable" format="reference"/>
+        <attr name="guiThumbColor" format="color|reference"/>
+        <attr name="guiThumbMargin" format="dimension|reference"/>
+        <attr name="guiThumbMarginTop" format="dimension|reference"/>
+        <attr name="guiThumbMarginBottom" format="dimension|reference"/>
+        <attr name="guiThumbMarginLeft" format="dimension|reference"/>
+        <attr name="guiThumbMarginRight" format="dimension|reference"/>
+        <attr name="guiThumbWidth" format="dimension|reference"/>
+        <attr name="guiThumbHeight" format="dimension|reference"/>
+        <attr name="guiThumbRadius" format="dimension|reference"/>
+        <attr name="guiBackRadius" format="dimension|reference"/>
+        <attr name="guiBackDrawable" format="reference"/>
+        <attr name="guiBackColor" format="color|reference"/>
+        <attr name="guiFadeBack" format="boolean"/>
+        <attr name="guiBackMeasureRatio" format="float"/>
+        <attr name="guiAnimationDuration" format="integer"/>
+        <attr name="guiTintColor" format="color|reference"/>
+        <attr name="guiTextOn" format="string"/>
+        <attr name="guiTextOff" format="string"/>
+        <attr name="guiTextMarginH" format="dimension"/>
+        <attr name="guiAutoAdjustTextPosition" format="boolean"/>
+    </declare-styleable>
+    
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GuiCommon</string>
+    
+    <string name="gui_common_null_desc"></string>
+    <string name="gui_common_calculate_history">计算器历史记录</string>
+    
+    <string name="gui_common_Material_title">Material title</string>
+    <string name="gui_common_message">message</string>
+    
+    <string name="gui_common_tips">提示！</string>
+    
+	<string name="gui_common_sure_to_close">是否关闭？</string>
+	<string name="gui_common_ok">确定</string>
+	<string name="gui_common_cancel">取消</string>
+	
+	<!-- menu drawer -->
+	<string name="gui_common_md__drawerOpenIndicatorDesc">Close drawer</string>
+
+    <string name="gui_common_md__drawerClosedIndicatorDesc">Open drawer</string>
+    
+    <string name="gui_common_search_view_hint">请输入要找查的内容</string> 
+    <string name="gui_common_password">密码</string>
+    <!-- Label for button to confirm chosen date or time [CHAR LIMIT=30] -->
+    <string name="gui_common_done_label">完成</string>
+    <!--
+         Content description for the hour selector in the time picker, which displays
+         selectable hours of the day along the inside edge of a circle, as in an analog clock.
+         [CHAR LIMIT=50]
+    -->
+    <string name="gui_common_hour_picker_description">Hours circular slider</string>
+    <!--
+         Content description for the minute selector in the time picker, which displays
+         selectable five-minute intervals along the inside edge of a circle, as in an analog clock.
+         [CHAR LIMIT=50]
+    -->
+    <string name="gui_common_minute_picker_description">Minutes circular slider</string>
+    <!-- Accessibility announcement for hour circular picker [CHAR LIMIT=NONE] -->
+    <string name="gui_common_select_hours">Select hours</string>
+    <!-- Accessibility announcement for minute circular picker [CHAR LIMIT=NONE] -->
+    <string name="gui_common_select_minutes">Select minutes</string>
+
+    <!--
+        Content description for the month and day selector in the date picker, which displays
+        a selectable grid of days laid out by month.
+        [CHAR LIMIT=50]
+     -->
+    <string name="gui_common_day_picker_description">Month grid of days</string>
+    <!--
+        Content description for the year selector in the date picker, which displays
+        a scrolling, vertical list of years.
+        [CHAR LIMIT=50]
+     -->
+    <string name="gui_common_year_picker_description">Year list</string>
+    <!-- Accessibility announcement for the day picker [CHAR LIMIT=NONE] -->
+    <string name="gui_common_select_day">Select month and day</string>
+    <!-- Accessibility announcement for the year picker [CHAR LIMIT=NONE] -->
+    <string name="gui_common_select_year">Select year</string>
+    <!-- Accessibility description for the item that is currently selected. -->
+    <string name="gui_common_item_is_selected"> selected</string>
+    <!-- Accessibility announcement when a number that had been typed in is deleted [CHAR_LIMIT=NONE] -->
+    <string name="gui_common_deleted_key"> deleted</string>
+
+    <!-- DO NOT TRANSLATE -->
+    <string name="gui_common_time_placeholder">--</string>
+    <!-- DO NOT TRANSLATE -->
+    <string name="gui_common_time_separator">:</string>
+
+    <!-- DO NOT TRANSLATE -->
+    <string name="gui_common_radial_numbers_typeface">sans-serif</string>
+    <!-- DO NOT TRANSLATE -->
+    <string name="gui_common_sans_serif">sans-serif</string>
+
+    <!-- DO NOT TRANSLATE -->
+    <string name="gui_common_day_of_week_label_typeface">sans-serif</string>
+    
+    <string name="gui_common_shareto">分享到</string>
+    <string name="gui_common_selectprovince">选择省份</string>
+
+
+</resources>

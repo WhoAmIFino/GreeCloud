@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/layout_full"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/sync_dialog_title"
+        style="@style/layout_wrap"
+        android:text="@string/sync_merge_title"
+        android:textColor="@color/text_color_black_52"
+        android:textSize="@dimen/common_text_size_52" />
+
+    <RelativeLayout
+        style="@style/layout_width_full"
+        android:layout_marginBottom="@dimen/sync_dialog_radio_margin"
+        android:layout_marginTop="@dimen/sync_dialog_title_margin"
+        android:paddingEnd="@dimen/sync_dialog_icon_margin"
+        android:paddingStart="@dimen/sync_dialog_icon_margin" >
+
+        <TextView
+            android:id="@+id/sync_dialog_local"
+            style="@style/sync_dialog_icon_style"
+            android:layout_alignParentStart="true"
+            android:drawableTop="@drawable/sync_local_icon" />
+
+        <ImageView
+            android:id="@+id/sync_dialog_type"
+            style="@style/layout_wrap"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/sync_merge_icon" />
+
+        <TextView
+            android:id="@+id/sync_dialog_cloud"
+            style="@style/sync_dialog_icon_style"
+            android:layout_alignParentEnd="true"
+            android:drawableTop="@drawable/sync_cloud_icon" />
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/sync_type_group"
+        style="@style/layout_width_full"
+        android:orientation="vertical" >
+
+        <RadioButton
+            android:id="@+id/sync_dialog_merge"
+            style="@style/radio_style"
+            android:text="@string/sync_merge"
+            android:checked="true" />
+
+        <RadioButton
+            android:id="@+id/sync_dialog_over_cloud"
+            style="@style/radio_style"
+            android:text="@string/sync_over_cloud" />
+
+        <RadioButton
+            android:id="@+id/sync_dialog_over_local"
+            style="@style/radio_style"
+            android:text="@string/sync_over_local" />
+    </RadioGroup>
+
+</LinearLayout>

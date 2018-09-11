@@ -1,0 +1,19 @@
+<resources>
+
+    <dimen name="common_text_size_48">13.7sp</dimen>
+    <dimen name="common_text_size_52">14.8sp</dimen>
+    <dimen name="common_text_size_68">19.4sp</dimen>
+    <dimen name="common_diviter_height">2px</dimen>
+    <dimen name="common_content_padding">17dp</dimen>
+    <dimen name="head_margin_tb">70dp</dimen>
+    <dimen name="head_drawable_padding">21.4dp</dimen>
+    <dimen name="item_title_height">34.28dp</dimen>
+    <dimen name="item_height">51.4dp</dimen>
+    <dimen name="sync_dialog_title_margin">28.5dp</dimen>
+    <dimen name="sync_dialog_radio_margin">16dp</dimen>
+    <dimen name="sync_dialog_radio_padding">15dp</dimen>
+    <dimen name="sync_dialog_icon_margin">42.2dp</dimen>
+    <dimen name="sync_dialog_icon_draw_padding">10dp</dimen>
+    <dimen name="head_wh">100dip</dimen>
+
+</resources>

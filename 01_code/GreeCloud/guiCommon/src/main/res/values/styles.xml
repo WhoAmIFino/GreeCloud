@@ -1,0 +1,289 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+    -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="Gui.Common" parent="AppTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- 暂时屏蔽 -->
+    <style name="Gui.Common.TextShadowLight">
+        <item name="android:textColor">@color/gui_common_default_textcolor</item>
+        <item name="android:shadowColor">@color/gui_common_text_shadow_color_light</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <style name="Gui.Common.Content_main">
+        <item name="android:textSize">@dimen/gui_common_main_textsize</item>
+        <item name="android:textColor">@color/gui_common_default_textcolor</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="Gui.Common.Content_Detail">
+        <item name="android:textSize">@dimen/gui_common_detail_textsize</item>
+        <item name="android:textColor">@color/gui_common_detail_textcolor</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="Gui.Common.listPopupWindow" parent="android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/gui_common_popupview_menu_background</item>
+    </style>
+
+    <style name="Gui.Common.Toolbar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/gui_common_toolbar_height</item>
+        <item name="android:gravity">bottom|center_horizontal</item>
+        <item name="android:background">@drawable/gui_common_toolbar_bg</item>
+        <item name="android:paddingBottom">8dip</item>
+    </style>
+
+    <style name="Gui.Common.ToolbarButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/gui_common_default_textcolor</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="bracketColor">@color/gui_common_activited_textcolor</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:drawablePadding">8dip</item>
+    </style>
+
+    <style name="Gui.Common.AlphabeticalListView">
+        <item name="android:layout_width">@dimen/gui_common_alphabetical_width</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:overScrollMode">never</item>
+        <item name="android:paddingRight">@dimen/gui_common_alphabetical_padding_right</item>
+        <item name="letterSize">@dimen/gui_common_alphabetical_text_size</item>
+    </style>
+
+    <style name="Gui.Common.ActionbarButton">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:textSize">@dimen/gui_common_main_textsize</item>
+        <item name="android:textColor">@color/gui_common_default_textcolor</item>
+    </style>
+
+    <!-- 暂时屏蔽 -->
+    <!--
+    style name="gui.customalertdialog" parent="@*android:style/Theme.Holo.Light.Dialog.Alert">
+        <item name="android:listChoiceIndicatorMultiple">@drawable/gui_common_checkbox_button</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/gui_common_btn_radio_holo_light</item>
+        <item name="android:alertDialogIcon">@drawable/gui_common_ic_dialog_alert</item>
+        <item name="android:progressBarStyle">@style/gui.ProgressBar</item>
+    </style
+    -->
+
+    <style name="Gui.Common.ProgressBar.Small" parent="@android:style/Widget.Holo.Light.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/gui_common_loading_small_holo</item>
+    </style>
+
+    <style name="Gui.Common.ProgressBar" parent="@android:style/Widget.Holo.Light.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/gui_common_loading_medium_holo</item>
+    </style>
+
+    <style name="Gui.Common.ProgressBar.Large" parent="@android:style/Widget.Holo.Light.ProgressBar.Large">
+        <item name="android:indeterminateDrawable">@drawable/gui_common_loading_large_holo</item>
+    </style>
+
+    <style name="Gui.Common.ProgressBar.Inverse"></style>
+
+    <style name="Gui.Common.ProgressBar.Small.Inverse"></style>
+
+    <style name="Gui.Common.ProgressBar.Large.Inverse"></style>
+
+    <style name="Gui.Common.FloatingActionButton" parent="android:Widget.ImageButton">
+        <item name="floatingActionButtonSize">normal</item>
+    </style>
+
+    <style name="Gui.Common.FloatingActionButton.Mini" parent="Gui.Common.FloatingActionButton">
+        <item name="floatingActionButtonSize">mini</item>
+    </style>
+
+    <style name="Gui.Common.FloatingActionButton.Light" parent="Gui.Common.FloatingActionButton">
+        <item name="floatingActionButtonColor">@android:color/primary_text_dark</item>
+    </style>
+
+    <style name="Gui.Common.FloatingActionButton.Light.Mini" parent="Gui.Common.FloatingActionButton.Mini">
+        <item name="floatingActionButtonColor">@android:color/primary_text_dark</item>
+    </style>
+
+    <style name="Gui.Common.FloatingActionButton.Dark" parent="Gui.Common.FloatingActionButton">
+        <item name="floatingActionButtonColor">@android:color/tab_indicator_text</item>
+    </style>
+
+    <style name="Gui.Common.FloatingActionButton.Dark.Mini" parent="Gui.Common.FloatingActionButton.Mini">
+        <item name="floatingActionButtonColor">@android:color/tab_indicator_text</item>
+    </style>
+
+    <style name="Gui.Common.SimpleDialogTheme" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@drawable/gui_common_dialog_backrgound_shape</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
+    <declare-styleable name="Gui.Common.ShadowLayout">
+        <attr name="sl_cornerRadius" format="dimension" />
+        <attr name="sl_shadowRadius" format="dimension" />
+        <attr name="sl_shadowColor" format="color" />
+        <attr name="sl_dx" format="dimension" />
+        <attr name="sl_dy" format="dimension" />
+    </declare-styleable>
+
+    <!-- menu drawer -->
+
+    <style name="Gui.Common.MenuDrawerWidget" />
+
+    <!-- Base theme for the menu drawer. -->
+    <style name="Gui.Common.MenuDrawerWidget.MenuDrawer">
+        <item name="mdMenuBackground">@color/gui_common_md__defaultBackground</item>
+        <item name="mdContentBackground">?android:attr/windowBackground</item>
+        <item name="mdDrawerOpenUpContentDescription">@string/gui_common_md__drawerOpenIndicatorDesc</item>
+        <item name="mdDrawerClosedUpContentDescription">@string/gui_common_md__drawerClosedIndicatorDesc</item>
+    </style>
+
+    <!-- menu drawer end -->
+
+
+    <!-- and by ysf -->
+
+    <style name="Gui.Common.LoadingProgressBar.Small" parent="@android:style/Widget.Holo.Light.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/gui_common_loading_small_holo</item>
+    </style>
+
+    <style name="Gui.Common.LoadingProgressBar" parent="@android:style/Widget.Holo.Light.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/gui_common_loading_medium_holo</item>
+    </style>
+
+    <style name="Gui.Common.LoadingProgressBar.Large" parent="@android:style/Widget.Holo.Light.ProgressBar.Large">
+        <item name="android:indeterminateDrawable">@drawable/gui_common_loading_large_holo</item>
+    </style>
+
+    <style name="Gui.Common.RoundButton" parent="@android:style/Widget.Holo.Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/gui_common_default_textcolor</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@drawable/gui_common_button_round_button</item>
+    </style>
+
+    <style name="Gui.Common.RectangleButton" parent="@android:style/Widget.Holo.Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/gui_common_default_textcolor</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@drawable/gui_common_button_rectangle_button</item>
+    </style>
+
+    <style name="Gui.Common.ProgressBar_horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">50dip</item>
+        <item name="android:minHeight">8dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/gui_common_progressbar_horizontal</item>
+    </style>
+
+    <style name="Gui.Common.Seekbar" parent="@android:style/Widget.Holo.SeekBar">
+        <item name="android:thumb">@drawable/gui_common_seekbar_thumb</item>
+        <item name="android:src">@drawable/gui_common_seekbar</item>
+        <item name="android:maxHeight">5dp</item>
+    </style>
+
+    <style name="Gui.Common.checkBox_stlye_circle_stlye" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/gui_common_checkbox</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:maxHeight">10.0dip</item>
+    </style>
+
+    <style name="Gui.Common.CheckBox_stlye" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/gui_common_checkbox_button</item>
+    </style>
+    
+    <style name="Gui.Common.SwitchButton_stlye" parent="@android:style/Widget.CompoundButton">
+        <item name="android:button">@drawable/gui_common_switch_button</item>
+    </style>
+
+    <style name="Gui.Common.RadioButton_stlye" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/gui_common_btn_radio</item>
+    </style>
+
+    <!-- end by ysf -->
+    <style name="Gui.Common.Popupmenu">
+
+    </style>
+
+    <style name="Gui.Common.Popupmenu.FadeAnimation">
+        <item name="android:windowEnterAnimation">@anim/gui_common_fadeanimation_enter</item>
+        <item name="android:windowExitAnimation">@anim/gui_common_fadeanimation_exit</item>
+    </style>
+    <!-- menu drawer end -->
+    <style name="Gui.Common.DialogFragmentStyle" parent="AppTheme">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:colorForeground">@android:color/transparent</item>
+        <item name="android:colorForegroundInverse">@android:color/transparent</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="Gui.Common.time_label">
+        <item name="android:textSize">@dimen/gui_common_time_label_size</item>
+        <item name="android:textColor">@color/gui_common_numbers_text_color</item>
+    </style>
+
+    <style name="Gui.Common.ampm_label">
+        <item name="android:textSize">@dimen/gui_common_ampm_label_size</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/gui_common_ampm_text_color</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Gui.Common.day_of_week_label_condensed" />
+
+
+    <style name="Gui.Common.Button.ButtonBar.AlertDialog.Positive" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+        <item name="android:minWidth">65dp</item>
+        <item name="android:minHeight">50dp</item>
+        <item name="android:textColor">@color/gui_common_buttonbar_red</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    
+	<style name="SwitchButtonStyle">
+
+		<item name="guiBackMeasureRatio">1.6</item>
+		<item name="guiBackDrawable">@drawable/gui_common_gree_back_drawable</item>
+		<item name="guiThumbDrawable">@drawable/gui_common_gree_thumb_selector</item>
+		<item name="guiThumbMarginBottom">-8dp</item>
+		<item name="guiThumbMarginLeft">-8dp</item>
+		<item name="guiThumbMarginRight">-5dp</item>
+		<item name="guiThumbMarginTop">-2.5dp</item>
+		<item name="guiAnimationDuration">100</item>
+
+	</style>
+	
+    
+</resources>

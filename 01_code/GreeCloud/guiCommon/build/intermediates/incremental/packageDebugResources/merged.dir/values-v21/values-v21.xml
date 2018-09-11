@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gui_common_contact_title_lay_height">78dp</dimen>
+    <dimen name="gui_common_floating_action_button_elevation">4dp</dimen>
+    <dimen name="gui_common_floating_action_button_margin_mini">20dp</dimen>
+    <dimen name="gui_common_floating_action_button_margin_mini_minus">-20dp</dimen>
+    <dimen name="gui_common_floating_action_button_margin_normal">28dp</dimen>
+    <dimen name="gui_common_floating_action_button_margin_normal_minus">-28dp</dimen>
+    <dimen name="gui_common_floating_action_button_shadow_radius">6dp</dimen>
+    <dimen name="gui_common_floating_action_button_size_mini">40dp</dimen>
+    <dimen name="gui_common_floating_action_button_size_normal">56dp</dimen>
+</resources>
